@@ -1,0 +1,1 @@
+web: sh se tup.sh && streamlit run app.py
